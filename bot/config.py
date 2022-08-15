@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = "1854368657:AAH55FgcHbonhIAEtzTzdhgd6cMigf5H11c"
-    APP_ID = "1971546"
-    API_HASH = "b994bccad6118cd6fb6d091b9bbfe5cf"
-    DATABASE_URL = "postgres://xzikoxfjzpzvph:a391d7f81f05edb4206c405850fc7ad021470da8ae615c34fddde71a055a54a6@ec2-52-0-114-209.compute-1.amazonaws.com:5432/d3fg2ul81hd69t"
-    SUDO_USERS = "1331188677" # Sepearted by space.
-    SUPPORT_CHAT_LINK = "https://t.me/lkhitech"
+    BOT_TOKEN = "5787476717:AAHLdmCmxtdEDfVZxPO7qDS-XQ-sawJ2FXc"
+    APP_ID = "18835887"
+    API_HASH = "e965bf55d2619dcf9a8e08b44a69e39a"
+    DATABASE_URL = "postgres://noosppkjglzivm:823fd7a8c774ae1cbe829076be5dadc9527e3df6c558f6c3bcda2c7f5b3fdf5c@ec2-34-203-182-65.compute-1.amazonaws.com:5432/d61kubq8b7581s"
+    SUDO_USERS = "1716689693" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/MFikriansyahK"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = "211441795261-cn3g6m1tios1291d8gd8mul4vkmc2grb.apps.googleusercontent.com"
-    G_DRIVE_CLIENT_SECRET = "HENHM0YRHdVvAWtUK7S7DRiY"
+    G_DRIVE_CLIENT_ID = "69592149743-ba7loogkjsrumt5o2sjo6actruj4m6dj.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
 
 
 class BotCommands:
