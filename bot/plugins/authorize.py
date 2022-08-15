@@ -24,7 +24,7 @@ async def _auth(client, message):
   creds = gDriveDB.search(user_id)
   if creds is not None:
     creds.refresh(Http())
-    gDriveDB._set(creds)
+    gDriveDB._set(user_id, creds)
     await message.reply_text(Messages.ALREADY_AUTH, quote=True)
   else:
     global flow
